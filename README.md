@@ -1,4 +1,4 @@
-# Disney+ Clone - Portfolio Project
+# Disney+ Clone 
 
 A modern, responsive Disney+ clone built with React, featuring real movie and TV show data from TMDB API. This project demonstrates advanced React development skills, API integration, and modern web development practices.
 
