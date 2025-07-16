@@ -190,7 +190,7 @@ This project is for educational purposes only. All movie and TV show data is pro
 ## 📞 Contact
 
 
-- **LinkedIn**: www.linkedin.com/in/coreyhamilton2025/)
+- **LinkedIn**: www.linkedin.com/in/coreyhamilton2025
 - **GitHub**: https://github.com/AlphaCentauri2026
 
 ---
