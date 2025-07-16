@@ -2,11 +2,11 @@
 
 A modern, responsive Disney+ clone built with React, featuring real movie and TV show data from TMDB API. This project demonstrates advanced React development skills, API integration, and modern web development practices.
 
-![Disney+ Clone Preview](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=Disney+Clone+Preview)
 
-## 🚀 Live Demo
 
-[View Live Demo](https://your-deployment-url.com)
+
+
+
 
 ## ✨ Features
 
@@ -78,7 +78,7 @@ disney-clone-web/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/disney-clone-web.git
+   git clone https://github.com/AlphaCentauri2026/disney-clone-web.git
    cd disney-clone-web
    ```
 
@@ -189,9 +189,9 @@ This project is for educational purposes only. All movie and TV show data is pro
 
 ## 📞 Contact
 
-- **Portfolio**: [Your Portfolio URL]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [Your GitHub]
+
+- **LinkedIn**: www.linkedin.com/in/coreyhamilton2025/)
+- **GitHub**: https://github.com/AlphaCentauri2026
 
 ---
 
